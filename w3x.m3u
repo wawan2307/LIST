@@ -249,18 +249,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h101/S1/mnf.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservesd-1.dens.tv/s/s21/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-name="TV One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1920px-TvOne_2023.svg.png" group-title="NATIONAL",TV One
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://rr2---sn-b5g0q5hxqp5-n0ce.googlevideo.com/videoplayback
-
-#EXTINF:-1 tvg-name="TV One (mpd)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1920px-TvOne_2023.svg.png" group-title="NATIONAL",TV One (mpd)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/783/res=720p/file/stream.mpd
-
-#EXTINF:-1 tvg-name="Jawa Pos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Logo_JPM_Jawapos.png/250px-Logo_JPM_Jawapos.png" group-title="NATIONAL",Jawa Pos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://v-s3.sindonews.net/myvid/etc/preload/hls/preload_360.m3u8
-
 #EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="NATIONAL", MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/
@@ -295,12 +283,12 @@ https://1s1.rctiplus.id/anevia1/rcti-sdi.m3u8?auth_key=1774442095-87f86646f26a58
 #KODIPROP:inputstream.adaptive.license_key=1774442434-eac56bba3b87bd79a4ebb8e0aa8a74f7-0-36d53c1da67209926ed5f756ff60df69
 https://1s1.rctiplus.id/s-mnctv-sdi.m3u8?auth_key=1774442434-eac56bba3b87bd79a4ebb8e0aa8a74f7-0-36d53c1da67209926ed5f756ff60df69
 
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="Indonesia",GTV (+)
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="Indonesia",GTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=1774442434-eac56bba3b87bd79a4ebb8e0aa8a74f7-0-36d53c1da67209926ed5f756ff60df69
-https://1s1.rctiplus.id/s-mnctv-sdi.m3u8?auth_key=1774442434-eac56bba3b87bd79a4ebb8e0aa8a74f7-0-36d53c1da67209926ed5f756ff60df69
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png" group-title="Indonesia",iNews (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -308,6 +296,18 @@ https://1s1.rctiplus.id/s-mnctv-sdi.m3u8?auth_key=1774442434-eac56bba3b87bd79a4e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+
+#EXTINF:-1 tvg-name="TV One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1920px-TvOne_2023.svg.png" group-title="NATIONAL",TV One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://rr2---sn-b5g0q5hxqp5-n0ce.googlevideo.com/videoplayback
+
+#EXTINF:-1 tvg-name="TV One (mpd)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1920px-TvOne_2023.svg.png" group-title="NATIONAL",TV One (mpd)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/783/res=720p/file/stream.mpd
+
+#EXTINF:-1 tvg-name="Jawa Pos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Logo_JPM_Jawapos.png/250px-Logo_JPM_Jawapos.png" group-title="NATIONAL",Jawa Pos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://v-s3.sindonews.net/myvid/etc/preload/hls/preload_360.m3u8
 
 =========================================== RELIGI ===========================================
 
