@@ -60,10 +60,16 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
 #EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/500px-CNN_Indonesia_logo.svg.png" group-title="NATIONAL",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 #EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/500px-CNBC_Indonesia_2025.svg.png" group-title="NATIONAL",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-name="TV One" tvg-logo="https://www.visionplus.id/images/repository/938/576938-SQUARE-l.jpg" group-title="Indonesia",TV One 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg" group-title="DENS TV", Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -313,11 +319,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/res=720p/file/stream.mpd?hdntl=exp=1774440507~acl=%2fstream%2f782%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f782%2ffile%2f*%2faac%2f*!%2fstream%2f782%2ffile%2f*%2f*-720p%2f*!%2fstream%2f782%2ffile%2f*%2f*-480p%2f*!%2fstream%2f782%2ffile%2f*%2f*-360p%2f*~id=209426977~data=hdntl~hmac=ca95a2a1bdf01102f53e3369155f12651d36a63560567ac32333de036da3a8e9&11
-
-#EXTINF:-1 tvg-name="TV One" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="VIDIO",TV One 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/783/res=720p/file/stream.mpd?hdnts=exp=1774429471~acl=/stream/783/res=720p/file/stream.mpd!/stream/783/file/*/aac/*!/stream/783/file/*/*-720p/*!/stream/783/file/*/*-480p/*!/stream/783/file/*/*-360p/*~id=allUsers~hmac=34a21fd7bc07d63e1bea61b46812083b907f444a9bb48ac55594d69206f03c30
 
 #EXTINF:-1 tvg-name="Jawa Pos" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg" group-title="VIDIO",Jawa Pos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
