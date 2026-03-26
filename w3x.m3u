@@ -10,7 +10,7 @@ http://103.66.62.83:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png" group-title="NATIONAL", GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.66.62.83:8000/play/a02v/index.m3u8
+http://103.66.62.83:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/transtv.png" group-title="NATIONAL",TRANS TV (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -28,9 +28,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://www.visionplus.id/images/repository/936/576936-SQUARE-l.jpg" group-title="Indonesia",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://103.66.62.83:8000/play/a00r/index.m3u8
+
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501653_tvchannels_v1.jpg" group-title="DENS TV", RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+
+#EXTINF:-1 tvg-name="MENTARI" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="VIDIO",MENTARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://103.66.62.83:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-name="MOJI" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -71,6 +79,10 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/S1/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="NATIONAL",INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://static.rctiplus.id/media/500/files/fta_rcti/Channel_Logo/iNews.png" group-title="NATIONAL", iNEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.66.62.83:8000/play/a00d/index.m3u8
+
 #EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://media-origin.kompas.tv/frontend/mobile/images/160x44web.png" group-title="NATIONAL",KOMPAS TV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
@@ -102,6 +114,15 @@ https://op-group1-swiftservesd-1.dens.tv/s/s11/02.m3u8
 #EXTINF:-1 tvg-name="TVRI Sport" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="DENS TV", TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
+
+#EXTINF:-1 tvg-name="Jawa Pos" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg" group-title="VIDIO",Jawa Pos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/500px-VTV_Indonesia_2023.svg.png" group-title="NATIONAL",VTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-name="GARUDA" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png" group-title="VIDIO",GARUDA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -283,6 +304,15 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logobantentv.png/500px-Logobantentv.png" group-title="NATIONAL",Banten TV
 https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BiznetAdventure.id@SD",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BiznetKids.id@SD",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="BiznetLifestyle.id@SD",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+
 #EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="NATIONAL", MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/
@@ -330,21 +360,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="VIDIO",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/res=720p/file/stream.mpd?hdntl=exp=1774440507~acl=%2fstream%2f782%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f782%2ffile%2f*%2faac%2f*!%2fstream%2f782%2ffile%2f*%2f*-720p%2f*!%2fstream%2f782%2ffile%2f*%2f*-480p%2f*!%2fstream%2f782%2ffile%2f*%2f*-360p%2f*~id=209426977~data=hdntl~hmac=ca95a2a1bdf01102f53e3369155f12651d36a63560567ac32333de036da3a8e9&11
-
-#EXTINF:-1 tvg-name="Jawa Pos" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg" group-title="VIDIO",Jawa Pos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/9714/res=720p/file/stream.mpd?hdntl=exp=1774445480~acl=%2fstream%2f9714%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f9714%2ffile%2f*%2faac%2f*!%2fstream%2f9714%2ffile%2f*%2f*-720p%2f*!%2fstream%2f9714%2ffile%2f*%2f*-480p%2f*!%2fstream%2f9714%2ffile%2f*%2f*-360p%2f*~id=209426977~data=hdntl~hmac=e9a7af6711c3156048de9a916a63309a1ed858aedfa4c0f36f970db6afb81b71&5
-
-#EXTINF:-1 tvg-name="MENTARI" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="VIDIO",MENTARI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1774444429~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=209426977~data=hdntl~hmac=055212e5f75020d16a7befe4a65fcfe40a3dc02d9ac531b514c5f40958b3c622&11
 
 #EXTINF:-1 tvg-name="MUSICA" tvg-logo="https://thumbor.prod.vidiocdn.com/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png" group-title="VIDIO",MUSICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
