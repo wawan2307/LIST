@@ -40,6 +40,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://103.66.62.83:8000/play/a00h/index.m3u8
 
+#EXTINF:-1 tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/500px-VTV_Indonesia_2023.svg.png" group-title="NATIONAL",VTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch107.m3u8
+
 #EXTINF:-1 tvg-name="MOJI" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -71,11 +76,6 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-name="Jowo" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="DENS TV", Jowo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/500px-VTV_Indonesia_2023.svg.png" group-title="NATIONAL",VTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://youtv.live/
-https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687940_tvchannels_v1.jpeg" group-title="DENS TV", BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
