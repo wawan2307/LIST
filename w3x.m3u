@@ -98,6 +98,10 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/S1/mnf.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Jawa Pos" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg" group-title="VIDIO",Jawa Pos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://static.rctiplus.id/media/500/files/fta_rcti/Channel_Logo/iNews.png" group-title="NATIONAL", iNEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.66.62.83:8000/play/a00d/index.m3u8
@@ -133,17 +137,6 @@ https://op-group1-swiftservesd-1.dens.tv/s/s11/02.m3u8
 #EXTINF:-1 tvg-name="TVRI Sport" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="DENS TV", TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
-
-#EXTINF:-1 tvg-name="Jawa Pos" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg" group-title="VIDIO",Jawa Pos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="GARUDA" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png" group-title="VIDIO",GARUDA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0v5WJR/pesona-indonesia.png" group-title="NATIONAL",Pesona Indonesia
-https://h1.intechmedia.net/intech/ch92.m3u8
 
 #EXTINF:-1 tvg-name="Rodja" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501810_tvchannels_v1.jpg" group-title="RELIGI", Rodja
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -212,6 +205,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8
 #EXTINF:-1 tvg-id="MusicInformationChannel",Music Information Channel
 #EXTVLCOPT:http-referrer=https://mic-indo.com/live
 https://mic.siar.us/mic/live/mic.m3u8
+
+#EXTINF:-1 tvg-name="GARUDA" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png" group-title="VIDIO",GARUDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
 
 #EXTINF:-1 tvg-id="KTV",KTV
 #EXTVLCOPT:http-referrer=https://youtv.live/
@@ -284,6 +281,9 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="DETIK TV" tvg-logo="https://awscdn.detik.net.id/20detik3/images/live-tv-detiktv.png" group-title="NATIONAL",DETIK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2026/03/15/33a919c6a19c41f79452d124c2ddea0e.smil/chunklist_w1444826956_b1592632.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0v5WJR/pesona-indonesia.png" group-title="NATIONAL",Pesona Indonesia
+https://h1.intechmedia.net/intech/ch92.m3u8
 
 #EXTINF:-1 tvg-name="MCE" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="DENS TV", MCE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
