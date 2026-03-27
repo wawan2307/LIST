@@ -81,10 +81,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
 
-#EXTINF:-1 tvg-id="BNChannel",BN Channel
-#EXTVLCOPT:http-referrer=https://youtv.live/
-https://flv.intechmedia.net/live/ch112.m3u8
-
 #EXTINF:-1 tvg-name="IndonesianaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/IndonesianaTV.png" group-title="NATIONAL",Indonesiana TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
@@ -206,13 +202,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8
 #EXTVLCOPT:http-referrer=https://mic-indo.com/live
 https://mic.siar.us/mic/live/mic.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/29/BMSTV_2016.png/500px-BMSTV_2016.png" group-title="NATIONAL",BMSTV
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="GARUDA" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png" group-title="VIDIO",GARUDA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
-
-#EXTINF:-1 tvg-id="KTV",KTV
-#EXTVLCOPT:http-referrer=https://youtv.live/
-https://flv.intechmedia.net/live/ch118.m3u8
 
 #EXTINF:-1 tvg-id="MDTV",MDTV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
@@ -240,9 +235,6 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="NATIONAL",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/29/BMSTV_2016.png/500px-BMSTV_2016.png" group-title="NATIONAL",BMSTV
-https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="JAK TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501805_tvchannels_v1.jpg" group-title="DENS TV", JAK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
@@ -269,9 +261,6 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="SemarangTV",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
 
-#EXTINF:-1 tvg-id="Simpang5TV",Simpang5 TV
-http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logobantentv.png/500px-Logobantentv.png" group-title="NATIONAL",Banten TV
 https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
 
@@ -281,6 +270,10 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="DETIK TV" tvg-logo="https://awscdn.detik.net.id/20detik3/images/live-tv-detiktv.png" group-title="NATIONAL",DETIK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2026/03/15/33a919c6a19c41f79452d124c2ddea0e.smil/chunklist_w1444826956_b1592632.m3u8
+
+#EXTINF:-1 tvg-id="BNChannel",BN Channel
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch112.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0v5WJR/pesona-indonesia.png" group-title="NATIONAL",Pesona Indonesia
 https://h1.intechmedia.net/intech/ch92.m3u8
