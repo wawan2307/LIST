@@ -43,7 +43,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-id="MENTARI" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="NATIONAL", MENTARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://103.66.62.83:8000/play/a00h/index.m3u8
+http://175.158.57.130:8888/stream/channelid/641828885
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="NATIONAL", MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
