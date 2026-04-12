@@ -215,6 +215,9 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 
 ===============HIBURAN=================
 
+#EXTINF:-1 tvg-id="MusikIndonesia" tvg-logo="https://www.transvision.co.id/img/channel/musik_indo.png", Musik Indonesia 
+http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MIC" tvg-logo="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png", Music Information Channel
 #EXTVLCOPT:http-referrer=https://mic-indo.com/live
 https://mic.siar.us/mic/live/mic.m3u8
@@ -261,6 +264,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h246/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8
 
+#EXTINF:-1 tvg-id="EATNGO" tvg-logo="https://www.transvision.co.id/img/channel/Eat%20n%20Go.jpg" group-title="HIBURAN", EATNGO 
+http://103.58.160.157:8278/720-EATNGO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INSERT" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="HIBURAN", INSERT 
+http://103.58.160.157:8278/720-INSERT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg" group-title="HIBURAN", HBO 
 http://103.58.160.157:8278/720-HBO/playlist.m3u8
 
@@ -276,11 +285,17 @@ http://103.58.160.157:8278/720-HBOSIG/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://images.indihometv.com/images/channels/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg" group-title="HIBURAN", Cinemax
 http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WARNERTV" tvg-logo="https://www.transvision.co.id/img/channel/new/WARNER.jpg" group-title="HIBURAN", WARNER TV 
+http://103.58.160.157:8278/720-WARNERTV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVN" tvg-logo="https://www.visionplus.id/images/repository/794/576794-SQUARE-l.jpg" group-title="HIBURAN", TVN 
 http://103.58.160.157:8278/720-TVN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVNMovies" tvg-logo="https://www.visionplus.id/images/repository/887/576887-SQUARE-l.jpg" group-title="HIBURAN", TVN Movies 
 http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.transvision.co.id/img/channel/axn_black.png" group-title="HIBURAN", AXN
+http://103.58.160.157:8278/720-AXN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="THRILL" tvg-logo="https://www.visionplus.id/images/repository/921/627921-SQUARE-l.jpg" group-title="HIBURAN", THRILL 
 http://103.58.160.157:8278/720-THRILL/playlist.m3u8
@@ -362,6 +377,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="TVRISport" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="SPORTS", TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
+
+#EXTINF:-1 tvg-id="SPORTSTV" tvg-logo="https://www.transvision.co.id/img/channel/new/SPORTS%20TV.jpg" group-title="SPORTS", SPORTS TV
+http://103.58.160.157:8278/720-SPORTSTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Motor+" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg" group-title="SPORTS", Motor+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
