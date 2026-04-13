@@ -294,8 +294,14 @@ http://103.58.160.157:8278/720-TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNMovies" tvg-logo="https://www.visionplus.id/images/repository/887/576887-SQUARE-l.jpg" group-title="HIBURAN", TVN Movies 
 http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ONETV" tvg-logo="https://www.transvision.co.id/img/channel/new/ONE%20TV.jpg" group-title="HIBURAN", ONE
+http://103.58.160.157:8278/720-ONETV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.transvision.co.id/img/channel/axn_black.png" group-title="HIBURAN", AXN
 http://103.58.160.157:8278/720-AXN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINEMAWORLD" tvg-logo="https://www.transvision.co.id/img/channel/new/CINEMA%20WORLD%20CHAMPAGNE.png" group-title="HIBURAN", CINEMA WORLD 
+http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="THRILL" tvg-logo="https://www.visionplus.id/images/repository/921/627921-SQUARE-l.jpg" group-title="HIBURAN", THRILL 
 http://103.58.160.157:8278/720-THRILL/playlist.m3u8
@@ -303,8 +309,17 @@ http://103.58.160.157:8278/720-THRILL/playlist.m3u8
 #EXTINF:-1 tvg-id="CCM" tvg-logo="https://www.visionplus.id/images/repository/881/576881-SQUARE-l.jpg" group-title="HIBURAN", Celestial Movies
 http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 
+#EXTINF:-1 tvg-id="COOKINGTV" tvg-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.png" group-title="HIBURAN", COOKING TV
+http://103.58.160.157:8278/720-COOKINGTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FASHIONTV" tvg-logo="https://www.transvision.co.id/img/channel/fashion.png" group-title="HIBURAN", FASHION TV
+http://103.58.160.157:8278/720-FASHIONTV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://images.indihometv.com/images/channels/image_ch_kbsworld.png" group-title="HIBURAN", KBS World 
 http://103.58.160.157:8278/720-KBSWORLD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GAMINGTV" tvg-logo="https://www.transvision.co.id/img/channel/new/GAMING%20TV.png" group-title="HIBURAN", GAMING TV
+http://103.58.160.157:8278/720-GAMINGTV/playlist.m3u8
 
 ================KIDS===================
 
@@ -318,6 +333,12 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cartoonnetwork.png" group-title="KIDS", Cartoon Network 
+http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-logo="https://www.transvision.co.id/img/channel/new/CARTOONITO.png" group-title="KIDS", CARTOONITO 
+http://103.58.160.157:8278/720-CARTOONITO/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD",Toon Goggles
 https://d1eg24xrsfr6kv.cloudfront.net/tg/tg/tg.m3u8
 
@@ -326,9 +347,6 @@ https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 
 #EXTINF:-1 tvg-id="NICKTOON" tvg-logo="https://images.indihometv.com/images/channels/image_ch_nick.png" group-title="KIDS",NICKTOON
 http://41.205.93.154/NICKTOONS/index.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cartoonnetwork.png" group-title="KIDS", Cartoon Network 
-http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/41/2025/10/17121309/DisneyChannel-2025-logo-white.png" group-title="KIDS", Disney 
 http://89.105.221.127/Disney/index.m3u8?token=test
@@ -380,6 +398,9 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
 
 #EXTINF:-1 tvg-id="SPORTSTV" tvg-logo="https://www.transvision.co.id/img/channel/new/SPORTS%20TV.jpg" group-title="SPORTS", SPORTS TV
 http://103.58.160.157:8278/720-SPORTSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SPEEDTV" tvg-logo="https://www.transvision.co.id/img/channel/new/Speed%20TV.jpg" group-title="SPORTS", SPEED TV
+http://103.58.160.157:8278/720-SPEEDTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Motor+" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg" group-title="SPORTS", Motor+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
