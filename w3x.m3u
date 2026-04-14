@@ -229,7 +229,7 @@ https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIBURAN", MTV 
+#EXTINF:-1 tvg-id="USAMTV" tvg-logo="" group-title="HIBURAN", MTV 
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
 #EXTINF:-1 tvg-id="BiznetAdventure" tvg-logo="https://biznetiptv.com/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="HIBURAN", Biznet Adventure
@@ -256,83 +256,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 
-#EXTINF:-1 tvg-id="PLAY" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="HIBURAN", DENS PLAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h246/01.m3u8
-
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1745228970_tvchannels_v1.jpg" group-title="HIBURAN", DENS LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8
-
-#EXTINF:-1 tvg-id="EATNGO" tvg-logo="https://www.transvision.co.id/img/channel/Eat%20n%20Go.jpg" group-title="HIBURAN", EATNGO 
-http://103.58.160.157:8278/720-EATNGO/playlist.m3u8
-
-#EXTINF:-1 tvg-id="INSERT" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="HIBURAN", INSERT 
-http://103.58.160.157:8278/720-INSERT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg" group-title="HIBURAN", HBO 
-http://103.58.160.157:8278/720-HBO/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBOHITS" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg" group-title="HIBURAN", HBO Hits
-http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBOFamily " tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg" group-title="HIBURAN", HBO Family 
-http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBOSignature" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg" group-title="HIBURAN", HBO Signature 
-http://103.58.160.157:8278/720-HBOSIG/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://images.indihometv.com/images/channels/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg" group-title="HIBURAN", Cinemax
-http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WARNERTV" tvg-logo="https://www.transvision.co.id/img/channel/new/WARNER.jpg" group-title="HIBURAN", WARNER TV 
-http://103.58.160.157:8278/720-WARNERTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVN" tvg-logo="https://www.visionplus.id/images/repository/794/576794-SQUARE-l.jpg" group-title="HIBURAN", TVN 
-http://103.58.160.157:8278/720-TVN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVNMovies" tvg-logo="https://www.visionplus.id/images/repository/887/576887-SQUARE-l.jpg" group-title="HIBURAN", TVN Movies 
-http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
-#EXTINF:-1 tvg-id="INSERT" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="HIBURAN", INSERT 
-http://103.58.160.157:8278/720-INSERT/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EATNGO" tvg-logo="https://www.transvision.co.id/img/channel/Eat%20n%20Go.jpg" group-title="HIBURAN", EATNGO 
 http://103.58.160.157:8278/720-EATNGO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="COOKINGTV" tvg-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.png" group-title="HIBURAN", COOKING TV
 http://103.58.160.157:8278/720-COOKINGTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DFC" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" group-title="HIBURAN", DFC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
-
-#EXTINF:-1 tvg-id="BiznetAdventure" tvg-logo="https://biznetiptv.com/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="HIBURAN", Biznet Adventure
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BiznetLifestyle" tvg-logo="https://biznetiptv.com/bin/images/tv-program/channel/BiznetHomeLifestyle.jpg" group-title="HIBURAN", Biznet Lifestyle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="LifeStyle" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="HIBURAN", DENS Life Style
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
-
-#EXTINF:-1 tvg-id="Knowledge" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" group-title="HIBURAN", DENS Knowledge 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
-
-#EXTINF:-1 tvg-id="ShowBiz" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg" group-title="HIBURAN", DENS Showbiz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
-
-#EXTINF:-1 tvg-id="PLAY" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="HIBURAN", DENS PLAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h246/01.m3u8
-
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1745228970_tvchannels_v1.jpg" group-title="HIBURAN", DENS LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8
+#EXTINF:-1 tvg-id="INSERT" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="HIBURAN", INSERT 
+http://103.58.160.157:8278/720-INSERT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg" group-title="HIBURAN", HBO 
 http://103.58.160.157:8278/720-HBO/playlist.m3u8
@@ -381,6 +312,14 @@ http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GAMINGTV" tvg-logo="https://www.transvision.co.id/img/channel/new/GAMING%20TV.png" group-title="HIBURAN", GAMING TV
 http://103.58.160.157:8278/720-GAMINGTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PLAY" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="HIBURAN", DENS PLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h246/01.m3u8
+
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1745228970_tvchannels_v1.jpg" group-title="HIBURAN", DENS LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8
 
 ================KIDS===================
 
