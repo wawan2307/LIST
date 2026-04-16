@@ -162,14 +162,14 @@ https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="SURABAYATV" tvg-logo="https://surabayatv35uhf.com/wp-content/uploads/2024/07/cropped-surabaya-tv-1536x296.png" group-title="NATIONAL",SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
 
-#EXTINF:-1 tvg-id="AstroBlitarTV" tvg-logo="https://i.imgur.com/rORKbGw.png", Astro Blitar TV
+#EXTINF:-1 tvg-id="AstroBlitarTV" tvg-logo="https://i.imgur.com/rORKbGw.png" group-title="NATIONAL", Astro Blitar TV
 #EXTVLCOPT:http-referrer=https://abtelevisi.com/
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KSTV" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png" group-title="NATIONAL",Kilisuci TV Kediri
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DhohoTV" tvg-logo="https://dhohotv.com/wp-content/uploads/2023/11/logo.png", Dhoho TV
+#EXTINF:-1 tvg-id="DhohoTV" tvg-logo="https://dhohotv.com/wp-content/uploads/2023/11/logo.png" group-title="NATIONAL", Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMTV" tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="NATIONAL",DMTV MALANG
@@ -184,23 +184,23 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVKU" tvg-logo="https://tvku.tv/beranda/assets/images/icon.png" group-title="NATIONAL",TVKU
 https://tvku.tv/hlsstream/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="SemarangTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3c/Cakra-semarang-tv.png/500px-Cakra-semarang-tv.png", Semarang TV
+#EXTINF:-1 tvg-id="SemarangTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3c/Cakra-semarang-tv.png/500px-Cakra-semarang-tv.png" group-title="NATIONAL", Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
 
 #EXTINF:-1 tvg-id="BMSTV" tvg-logo="https://bmstv.id/wp-content/uploads/2025/03/Asiasat-BMSTV-2025.png" group-title="NATIONAL",BMSTV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BRTV" tvg-logo="https://brtv.co.id/wp-content/uploads/2022/12/LOGO-BRTV-ORIGINAL-1024x316.png", BRTV
+#EXTINF:-1 tvg-id="BRTV" tvg-logo="https://brtv.co.id/wp-content/uploads/2022/12/LOGO-BRTV-ORIGINAL-1024x316.png" group-title="NATIONAL", BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DavikaTV" tvg-logo="https://davikatv.co/wp-content/uploads/2024/09/cropped-cropped-Logo_Davika_TV-1-80x80.png", Davika TV
+#EXTINF:-1 tvg-id="DavikaTV" tvg-logo="https://davikatv.co/wp-content/uploads/2024/09/cropped-cropped-Logo_Davika_TV-1-80x80.png" group-title="NATIONAL", Davika TV
 #EXTVLCOPT:http-referrer=https://davikatv.co/livestreaming/
 https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="NATIONAL",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EfarinaTV" tvg-logo="https://efarinatv.com/icon.png?icon.937341db.png", Efarina TV
+#EXTINF:-1 tvg-id="EfarinaTV" tvg-logo="https://efarinatv.com/icon.png?icon.937341db.png" group-title="NATIONAL", Efarina TV
 #EXTVLCOPT:http-referrer=https://live.efarinatv.net/
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 
@@ -215,10 +215,10 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 
 ===============HIBURAN=================
 
-#EXTINF:-1 tvg-id="MusikIndonesia" tvg-logo="https://www.transvision.co.id/img/channel/musik_indo.png", Musik Indonesia 
+#EXTINF:-1 tvg-id="MusikIndonesia" tvg-logo="https://www.transvision.co.id/img/channel/musik_indo.png" group-title="HIBURAN", Musik Indonesia 
 http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MIC" tvg-logo="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png", Music Information Channel
+#EXTINF:-1 tvg-id="MIC" tvg-logo="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" group-title="HIBURAN", Music Information Channel
 #EXTVLCOPT:http-referrer=https://mic-indo.com/live
 https://mic.siar.us/mic/live/mic.m3u8
 
@@ -339,10 +339,10 @@ http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-logo="https://www.transvision.co.id/img/channel/new/CARTOONITO.png" group-title="KIDS", CARTOONITO 
 http://103.58.160.157:8278/720-CARTOONITO/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ToonGoggles.us@SD",Toon Goggles
+#EXTINF:-1 tvg-id="ToonGoggles.us@SD" group-title="KIDS",Toon Goggles
 https://d1eg24xrsfr6kv.cloudfront.net/tg/tg/tg.m3u8
 
-#EXTINF:-1 tvg-id="TGJunior.us@SD",Toon Goggles Junior
+#EXTINF:-1 tvg-id="TGJunior.us@SD" group-title="KIDS",Toon Goggles Junior
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 
 #EXTINF:-1 tvg-id="NICKTOON" tvg-logo="https://images.indihometv.com/images/channels/image_ch_nick.png" group-title="KIDS",NICKTOON
