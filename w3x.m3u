@@ -61,7 +61,7 @@ http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1683916048_b2692000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="NTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1728448171_tvchannels_v1.jpg" group-title="NATIONAL, Nusantara TV
+#EXTINF:-1 tvg-id="NTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1728448171_tvchannels_v1.jpg" group-title="NATIONAL", Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h37/02.m3u8
 
@@ -102,7 +102,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s11/02.m3u8
 
 =================LOKAL=================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501756_tvchannels_v1.jpg" group-title="NATIONAL",TVRI JATIM
+#EXTINF:-1 tvg-id="TVRIJATIM" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501756_tvchannels_v1.jpg" group-title="NATIONAL",TVRI JATIM
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 
 #EXTINF:-1 tvg-id="Jowo" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="NATIONAL", Jowo
@@ -129,7 +129,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group2-swiftservesd-1.dens.tv/s/s12/S1/mnf.m3u8
 
-#EXTINF:-1 tvg-id="BNC",BN Channel
+#EXTINF:-1 tvg-id="BNC" group-title="NATIONAL",BN Channel
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch112.m3u8
 
@@ -152,7 +152,7 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="NATIONAL",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.staratv.id/icon.jpeg" group-title="NATIONAL",Stara TV
+#EXTINF:-1 tvg-id="StaraTV" tvg-logo="https://www.staratv.id/icon.jpeg" group-title="NATIONAL",Stara TV
 https://malang.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501805_tvchannels_v1.jpg" group-title="NATIONAL", JAK TV
@@ -406,10 +406,10 @@ http://103.58.160.157:8278/720-SPEEDTV/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
 
-#EXTINF:-1 tvg-id="FIFAPlus",FIFA+
+#EXTINF:-1 tvg-id="FIFAPlus" group-title="SPORTS",FIFA+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WWE",WWE
+#EXTINF:-1 tvg-id="WWE" group-title="SPORTS",WWE
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="REDBULL" tvg-logo="" group-title="SPORTS", REDBULL 
