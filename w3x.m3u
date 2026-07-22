@@ -12,11 +12,13 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_900000=10002-m
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://iptv-epg.org/logos/Indonesia/TransTV.id.png" group-title="NATIONAL",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
+#https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
+https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1654541561_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3MDE1MzI4NzAmd293emF0b2tlbmhhc2g9MzFPbUNqR0s5Q1dzZmx1bWVaWE43ekdNYzRNTjdSNlBEM3VWTmdJbF9faz0=.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="NATIONAL",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1319161779_b344100_sleng.m3u8
+#https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1319161779_b344100_sleng.m3u8
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w916553514_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3MDE5OTMwNDAmd293emF0b2tlbmhhc2g9Zm5zamlvWUJuLUpXYlE3SThLMENxbkRWMTZIeVJFeUxlamVmRVAzSUM2RT0=.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_indosiar.png" group-title="NATIONAL",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
