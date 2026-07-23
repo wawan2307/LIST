@@ -1,119 +1,103 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",CT SPORTS (PILDUN 2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVRISport" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="SPORTS", TVRI Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_900000=10002-mp4a_96000=20002.m3u8
-
 ==============NATIONAL=================
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://iptv-epg.org/logos/Indonesia/TransTV.id.png" group-title="NATIONAL",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
 https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1654541561_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3MDE1MzI4NzAmd293emF0b2tlbmhhc2g9MzFPbUNqR0s5Q1dzZmx1bWVaWE43ekdNYzRNTjdSNlBEM3VWTmdJbF9faz0=.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="NATIONAL",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1319161779_b344100_sleng.m3u8
 https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w916553514_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3MDE5OTMwNDAmd293emF0b2tlbmhhc2g9Zm5zamlvWUJuLUpXYlE3SThLMENxbkRWMTZIeVJFeUxlamVmRVAzSUM2RT0=.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_indosiar.png" group-title="NATIONAL",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="NATIONAL",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740682833_tvchannels_v1.jpg" group-title="NATIONAL", MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
-
-#EXTINF:-1 tvg-id="MOJI" tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="NATIONAL",MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 tvg-id="JawaPos" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg" group-title="NATIONAL",Jawa Pos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/01.m3u8
 
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501653_tvchannels_v1.jpg" group-title="NATIONAL", RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
+
+#EXTINF:-1 tvg-id="MOJI" tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="NATIONAL",MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_indosiar.png" group-title="NATIONAL",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="NATIONAL",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="MENTARI" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="NATIONAL", MENTARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://175.158.57.130:8888/stream/channelid/641828885
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="NATIONAL", MNCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png" group-title="NATIONAL", GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="NATIONAL", RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-#EXTINF:-1 tvg-id="Magna" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="NATIONAL", Magna
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1683916048_b2692000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="NTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1728448171_tvchannels_v1.jpg" group-title="NATIONAL", Nusantara TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h37/02.m3u8
+#EXTINF:-1 tvg-id="JawaPos" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg" group-title="NATIONAL",Jawa Pos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://63b2dc7196c38.streamlock.net:1937/JAWAPOSTVJKT/_definst_/myStream/chunklist_w623967849.m3u8
 
 =================NEWS=================
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://media-origin.kompas.tv/frontend/mobile/images/160x44web.png" group-title="NATIONAL",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+http://livestream.biznetvideo.net/kompas/smil:kompas.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://www.visionplus.id/images/repository/938/576938-SQUARE-l.jpg" group-title="NATIONAL",TV One 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg" group-title="NATIONAL", Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/02.m3u8
 
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687939_tvchannels_v1.jpeg" group-title="NATIONAL", Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h207/S1/mnf.m3u8
 
 #EXTINF:-1 tvg-id="CNNIndonesia" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnnindonesia.png" group-title="NATIONAL",CNN INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w1136673405_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3OTAyNTc1OTImd293emF0b2tlbmhhc2g9WEZWTkNLZThheDBZcXNncThHYWZwZEJZdC1pT2xHTENxOGZzZ0dsM19xST0=.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnbcindonesia.png" group-title="NATIONAL",CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w1117777658_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3ODcwNTY2NTMmd293emF0b2tlbmhhc2g9b2NYbm0ycTYzem02T3lQcVRuYUFXY3pUZTVmZGF3dzRIMGVFMm9qOVF0UT0=.m3u8
-
-#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://static.rctiplus.id/media/500/files/fta_rcti/Channel_Logo/iNews.png" group-title="NATIONAL", iNEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501756_tvchannels_v1.jpg" group-title="NATIONAL", TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s11/02.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 =================LOKAL=================
 
 #EXTINF:-1 tvg-id="TVRIJATIM" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501756_tvchannels_v1.jpg" group-title="NATIONAL",TVRI JATIM
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 
-#EXTINF:-1 tvg-id="Jowo" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="NATIONAL", Jowo
+#EXTINF:-1 tvg-id="Magna" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="NATIONAL", Magna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/02.m3u8
+
+#EXTINF:-1 tvg-id="NTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1728448171_tvchannels_v1.jpg" group-title="NATIONAL, Nusantara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
+
+#EXTINF:-1 tvg-id="Elshinta" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501688_tvchannels_v1.jpg" group-title="NATIONAL", Elshinta 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h303/S1/mnf.m3u8
+
+#EXTINF:-1 tvg-id="DAAITV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501817_tvchannels_v1.jpg" group-title="NATIONAL", DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687940_tvchannels_v1.jpeg" group-title="NATIONAL", BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayasd-1.dens.tv/h/h201/S1/mnf.m3u8
+
+#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501805_tvchannels_v1.jpg" group-title="NATIONAL", JAK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayasd-1.dens.tv/h/h209/S1/mnf.m3u8
 
 #EXTINF:-1 tvg-id="MADUTV" tvg-logo="https://madu.tv/wp-content/uploads/2023/05/madu-tv-logo.png" group-title="NATIONAL", MADU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -123,19 +107,7 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/chunklist_w1134348818.m3u8
 
-#EXTINF:-1 tvg-id="DAAITV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501817_tvchannels_v1.jpg" group-title="NATIONAL", DAAI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://inspira.tv/wp-content/uploads/elementor/thumbs/logo-inspira-putih-01-r9f2hk91s2d7hlo0zr9xo5d6xzdyz44dh0ffpnyk1u.png" group-title="NATIONAL",INSPIRA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Elshinta" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501688_tvchannels_v1.jpg" group-title="NATIONAL", Elshinta 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group2-swiftservesd-1.dens.tv/s/s12/S1/mnf.m3u8
-
-#EXTINF:-1 tvg-id="BNC" group-title="NATIONAL",BN Channel
+#EXTINF:-1 tvg-id="BNC",BN Channel
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch112.m3u8
 
@@ -148,34 +120,23 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687940_tvchannels_v1.jpeg" group-title="NATIONAL", BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
-
 #EXTINF:-1 tvg-id="LINGKARTV" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="NATIONAL",LINGKARTV 
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
 #EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="NATIONAL",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StaraTV" tvg-logo="https://www.staratv.id/icon.jpeg" group-title="NATIONAL",Stara TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.staratv.id/icon.jpeg" group-title="NATIONAL",Stara TV
 https://malang.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501805_tvchannels_v1.jpg" group-title="NATIONAL", JAK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-id="SURABAYATV" tvg-logo="https://surabayatv35uhf.com/wp-content/uploads/2024/07/cropped-surabaya-tv-1536x296.png" group-title="NATIONAL",SURABAYA TV
-https://e.siar.us/live/surabayatv.m3u8
-
-#EXTINF:-1 tvg-id="AstroBlitarTV" tvg-logo="https://i.imgur.com/rORKbGw.png" group-title="NATIONAL", Astro Blitar TV
+#EXTINF:-1 tvg-id="AstroBlitarTV" tvg-logo="https://i.imgur.com/rORKbGw.png", Astro Blitar TV
 #EXTVLCOPT:http-referrer=https://abtelevisi.com/
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KSTV" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png" group-title="NATIONAL",Kilisuci TV Kediri
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DhohoTV" tvg-logo="https://dhohotv.com/wp-content/uploads/2023/11/logo.png" group-title="NATIONAL", Dhoho TV
+#EXTINF:-1 tvg-id="DhohoTV" tvg-logo="https://dhohotv.com/wp-content/uploads/2023/11/logo.png", Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMTV" tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="NATIONAL",DMTV MALANG
@@ -190,23 +151,23 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVKU" tvg-logo="https://tvku.tv/beranda/assets/images/icon.png" group-title="NATIONAL",TVKU
 https://tvku.tv/hlsstream/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="SemarangTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3c/Cakra-semarang-tv.png/500px-Cakra-semarang-tv.png" group-title="NATIONAL", Semarang TV
+#EXTINF:-1 tvg-id="SemarangTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3c/Cakra-semarang-tv.png/500px-Cakra-semarang-tv.png", Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
 
 #EXTINF:-1 tvg-id="BMSTV" tvg-logo="https://bmstv.id/wp-content/uploads/2025/03/Asiasat-BMSTV-2025.png" group-title="NATIONAL",BMSTV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BRTV" tvg-logo="https://brtv.co.id/wp-content/uploads/2022/12/LOGO-BRTV-ORIGINAL-1024x316.png" group-title="NATIONAL", BRTV
+#EXTINF:-1 tvg-id="BRTV" tvg-logo="https://brtv.co.id/wp-content/uploads/2022/12/LOGO-BRTV-ORIGINAL-1024x316.png", BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DavikaTV" tvg-logo="https://davikatv.co/wp-content/uploads/2024/09/cropped-cropped-Logo_Davika_TV-1-80x80.png" group-title="NATIONAL", Davika TV
+#EXTINF:-1 tvg-id="DavikaTV" tvg-logo="https://davikatv.co/wp-content/uploads/2024/09/cropped-cropped-Logo_Davika_TV-1-80x80.png", Davika TV
 #EXTVLCOPT:http-referrer=https://davikatv.co/livestreaming/
 https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="NATIONAL",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EfarinaTV" tvg-logo="https://efarinatv.com/icon.png?icon.937341db.png" group-title="NATIONAL", Efarina TV
+#EXTINF:-1 tvg-id="EfarinaTV" tvg-logo="https://efarinatv.com/icon.png?icon.937341db.png", Efarina TV
 #EXTVLCOPT:http-referrer=https://live.efarinatv.net/
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 
@@ -219,11 +180,18 @@ https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTV" tvg-logo="https://assets.radarcirebon.tv/main/2024/08/cropped-radarcirebon.tv_icon-192x192.png" group-title="NATIONAL",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-=================RELIGI=================
-
-#EXTINF:-1 tvg-id="Ramadhan" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740651682_tvchannels_v1.jpg" group-title="RELIGI", DENS Religi
+#EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://inspira.tv/wp-content/uploads/elementor/thumbs/logo-inspira-putih-01-r9f2hk91s2d7hlo0zr9xo5d6xzdyz44dh0ffpnyk1u.png" group-title="NATIONAL",INSPIRA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h227/01.m3u8
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SURABAYATV" tvg-logo="https://surabayatv35uhf.com/wp-content/uploads/2024/07/cropped-surabaya-tv-1536x296.png" group-title="NATIONAL",SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1 tvg-id="Jowo" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="NATIONAL", Jowo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
+
+=================RELIGI=================
 
 #EXTINF:-1 tvg-id="TV9" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tv9.png" group-title="RELIGI",TV9 Nusantara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -235,15 +203,15 @@ http://202.150.161.117:8000/play/AlBahjahTV
 
 #EXTINF:-1 tvg-id="Rodja" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501810_tvchannels_v1.jpg" group-title="RELIGI", Rodja
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s14/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h233/01.m3u8
 
 #EXTINF:-1 tvg-id="QuranTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="RELIGI", Quran TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-id="SunnaTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="RELIGI", Sunna TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h38/02.m3u8
 
 #EXTINF:-1 tvg-id="TVMu" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvmu.png" group-title="RELIGI", TV Mu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -254,7 +222,39 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 ===============HIBURAN=================
 
-#EXTINF:-1 tvg-id="MIC" tvg-logo="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" group-title="HIBURAN", Music Information Channel
+#EXTINF:-1 tvg-id="DFC" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" group-title="HIBURAN", DFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/01.m3u8
+
+#EXTINF:-1 tvg-id="LifeStyle" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="HIBURAN", DENS Life Style
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h222/01.m3u8
+
+#EXTINF:-1 tvg-id="Knowledge" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" group-title="HIBURAN", DENS Knowledge 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h236/01.m3u8
+
+#EXTINF:-1 tvg-id="ShowBiz" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg" group-title="HIBURAN", DENS Showbiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h244/01.m3u8
+
+#EXTINF:-1 tvg-id="PLAY" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="HIBURAN", DENS PLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h246/01.m3u8
+
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1745228970_tvchannels_v1.jpg" group-title="HIBURAN", DENS LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h123/live.m3u8?app_type=web&userid=lite&chname=Live_Streaming_1
+
+#EXTINF:-1 tvg-id="BiznetAdventure" tvg-logo="https://biznetiptv.com/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="HIBURAN", Biznet Adventure
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BiznetLifestyle" tvg-logo="https://biznetiptv.com/bin/images/tv-program/channel/BiznetHomeLifestyle.jpg" group-title="HIBURAN", Biznet Lifestyle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="MIC" tvg-logo="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png", Music Information Channel
 #EXTVLCOPT:http-referrer=https://mic-indo.com/live
 https://mic.siar.us/mic/live/mic.m3u8
 
@@ -265,42 +265,14 @@ https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USAMTV" tvg-logo="" group-title="HIBURAN", MTV 
+#EXTINF:-1 tvg-id="MTV" tvg-logo="" group-title="HIBURAN", MTV 
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="BiznetAdventure" tvg-logo="https://biznetiptv.com/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="HIBURAN", Biznet Adventure
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BiznetLifestyle" tvg-logo="https://biznetiptv.com/bin/images/tv-program/channel/BiznetHomeLifestyle.jpg" group-title="HIBURAN", Biznet Lifestyle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="LifeStyle" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="HIBURAN", DENS Life Style
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
-
-#EXTINF:-1 tvg-id="Knowledge" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" group-title="HIBURAN", DENS Knowledge 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
-
-#EXTINF:-1 tvg-id="ShowBiz" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg" group-title="HIBURAN", DENS Showbiz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
-
-#EXTINF:-1 tvg-id="DFC" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" group-title="HIBURAN", DFC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
-
-#EXTINF:-1 tvg-id="PLAY" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="HIBURAN", DENS PLAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h246/01.m3u8
-
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1745228970_tvchannels_v1.jpg" group-title="HIBURAN", DENS LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8
-
 ================KIDS===================
+
+#EXTINF:-1 tvg-id="BiznetKids" tvg-logo="https://biznetiptv.com/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="HIBURAN", Biznet Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://images.indihometv.com/images/channels/image_ch_animal%20planet.png" group-title="HIBURAN", Animal Planet
 http://23.239.31.26:8989/animalplanet/index.m3u8
@@ -308,14 +280,10 @@ http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://images.indihometv.com/images/channels/image_ch_animal%20planet.png" group-title="HIBURAN", Animal Planet usa
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
-#EXTINF:-1 tvg-id="BiznetKids" tvg-logo="https://biznetiptv.com/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="HIBURAN", Biznet Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="ToonGoggles.us@SD" group-title="KIDS",Toon Goggles
+#EXTINF:-1 tvg-id="ToonGoggles.us@SD",Toon Goggles
 https://d1eg24xrsfr6kv.cloudfront.net/tg/tg/tg.m3u8
 
-#EXTINF:-1 tvg-id="TGJunior.us@SD" group-title="KIDS",Toon Goggles Junior
+#EXTINF:-1 tvg-id="TGJunior.us@SD",Toon Goggles Junior
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 
 #EXTINF:-1 tvg-id="NICKTOON" tvg-logo="https://images.indihometv.com/images/channels/image_ch_nick.png" group-title="KIDS",NICKTOON
@@ -367,235 +335,38 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="TVRISport" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="SPORTS", TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="Motor+" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg" group-title="SPORTS", Motor+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",CT SPORTS (PILDUN 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FIFAPlus" group-title="SPORTS",FIFA+
+#EXTINF:-1 tvg-id="FIFAPlus",FIFA+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WWE" group-title="SPORTS",WWE
+#EXTINF:-1 tvg-id="WWE",WWE
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="REDBULL" tvg-logo="" group-title="SPORTS", REDBULL 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="PrimaSport1" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-1-ro.png" group-title="SPORTS",Prima Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
-https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
-
-#EXTINF:-1 tvg-id="PrimaSport2" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-2-ro.png" group-title="SPORTS",Prima Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 tvg-id="PrimaSport3" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-3-ro.png" group-title="SPORTS",Prima Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
 ===========INTERNASIONAL==============
 
 #EXTINF:-1 tvg-id="MCE" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="HIBURAN", MCE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
-
-#EXTINF:-1 tvg-id="CREMA" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg" group-title="HIBURAN", CREMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h202/01.m3u8
-
-#EXTINF:-1 tvg-id="QWEST" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg" group-title="HIBURAN", QWEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h153/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-id="classica" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423611_tvchannels_v1.jpg" group-title="HIBURAN", classica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504951_tvchannels_v1.jpg" group-title="HIBURAN", CGTN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s20/02.m3u8
-
-#EXTINF:-1 tvg-id="DW" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504940_tvchannels_v1.jpg" group-title="HIBURAN", DW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group2-swiftservesd-1.dens.tv/s/s11/S1/mnf.m3u8
-
-#EXTINF:-1 tvg-id="AIM" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1712205651_tvchannels_v1.jpg" group-title="HIBURAN", AIM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h232/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-id="TV5Monde" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1762855009_tvchannels_v1.jpg" group-title="HIBURAN", TV5 Monde
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h312/02.m3u8
-
-#EXTINF:-1 tvg-id="WION" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503432_tvchannels_v1.jpg" group-title="HIBURAN", WION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h91/S1/mnf.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h18/02.m3u8
 
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503403_tvchannels_v1.jpg" group-title="HIBURAN", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h29/01.m3u8
 
 #EXTINF:-1 tvg-id="NHK" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503409_tvchannels_v1.jpg" group-title="HIBURAN", NHK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h23/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
 
 #EXTINF:-1 tvg-id="TRT" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503423_tvchannels_v1.jpg" group-title="HIBURAN", TRT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h156/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-id="RT" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1745830848_tvchannels_v1.jpg" group-title="HIBURAN", RT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h226/01.m3u8
-
-#EXTINF:-1 tvg-id="France24" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503463_tvchannels_v1.jpg" group-title="HIBURAN", France24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s22/02.m3u8
-
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503457_tvchannels_v1.jpg" group-title="HIBURAN", CCTV 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s19/02.m3u8
-
-#EXTINF:-1 tvg-id="TBN" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504946_tvchannels_v1.jpg" group-title="HIBURAN", TBN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/s/s39/02.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1755135969_tvchannels_v1.jpg" group-title="HIBURAN", Al Jazeera English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h143/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeera" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1755135969_tvchannels_v1.jpg" group-title="HIBURAN", Al Jazeera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/s/s16/02.m3u8
-
-#EXTINF:-1 tvg-id="FREEDOM" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503445_tvchannels_v1.jpg" group-title="HIBURAN", FREEDOM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h101/S1/mnf.m3u8
-
-#EXTINF:-1 tvg-id="Dance TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423538_tvchannels_v1.jpg" group-title="HIBURAN", Dance TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s21/S4/mnf.m3u8
-
-================BACKUP=================
-
-#EXTINF:-1 tvg-id="PesonaIndonesia" tvg-logo="https://i.postimg.cc/Fs0v5WJR/pesona-indonesia.png" group-title="NATIONAL",Pesona Indonesia
-https://h1.intechmedia.net/intech/ch92.m3u8
-
-#EXTINF:-1 tvg-id="DETIK TV" tvg-logo="https://awscdn.detik.net.id/20detik3/images/live-tv-detiktv.png" group-title="NATIONAL",DETIK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2026/03/15/33a919c6a19c41f79452d124c2ddea0e.smil/chunklist_w1444826956_b1592632.m3u8
-
-#EXTINF:-1 tvg-id="VTV" tvg-logo="https://gresspedia.id/storage/2023/01/Tv-baru-VTV-resmi-mengudara.jpg" group-title="NATIONAL", VTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://103.66.62.83:8000/play/a00c/index.m3u8
-
-#EXTINF:-1 tvg-id="MDTV" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="NATIONAL", MDTV
-https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
-
-#EXTINF:-1 tvg-id="MOJI" tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="NATIONAL",MOJI
-https://wahyu1ptv.pages.dev/Moji-HD.m3u8
-
-#EXTINF:-1 tvg-id="MusikIndonesia" tvg-logo="https://www.transvision.co.id/img/channel/musik_indo.png" group-title="HIBURAN", Musik Indonesia 
-http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://www.visionplus.id/images/repository/936/576936-SQUARE-l.jpg" group-title="NATIONAL", ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://103.58.160.157:8278/720-ANTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="NATIONAL", MNCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://103.58.160.157:8278/720-MNCTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png" group-title="NATIONAL", GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="NATIONAL", RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://103.58.160.157:8278/720-RCTI/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://iptv-epg.org/logos/Indonesia/TransTV.id.png" group-title="NATIONAL",TRANS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="NATIONAL",TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EATNGO" tvg-logo="https://www.transvision.co.id/img/channel/Eat%20n%20Go.jpg" group-title="HIBURAN", EATNGO 
-http://103.58.160.157:8278/720-EATNGO/playlist.m3u8
-
-#EXTINF:-1 tvg-id="COOKINGTV" tvg-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.png" group-title="HIBURAN", COOKING TV
-http://103.58.160.157:8278/720-COOKINGTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="INSERT" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="HIBURAN", INSERT 
-http://103.58.160.157:8278/720-INSERT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg" group-title="HIBURAN", HBO 
-http://103.58.160.157:8278/720-HBO/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBOHITS" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg" group-title="HIBURAN", HBO Hits
-http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBOFamily " tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg" group-title="HIBURAN", HBO Family 
-http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBOSignature" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg" group-title="HIBURAN", HBO Signature 
-http://103.58.160.157:8278/720-HBOSIG/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://images.indihometv.com/images/channels/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg" group-title="HIBURAN", Cinemax
-http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WARNERTV" tvg-logo="https://www.transvision.co.id/img/channel/new/WARNER.jpg" group-title="HIBURAN", WARNER TV 
-http://103.58.160.157:8278/720-WARNERTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVN" tvg-logo="https://www.visionplus.id/images/repository/794/576794-SQUARE-l.jpg" group-title="HIBURAN", TVN 
-http://103.58.160.157:8278/720-TVN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVNMovies" tvg-logo="https://www.visionplus.id/images/repository/887/576887-SQUARE-l.jpg" group-title="HIBURAN", TVN Movies 
-http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ONETV" tvg-logo="https://www.transvision.co.id/img/channel/new/ONE%20TV.jpg" group-title="HIBURAN", ONE
-http://103.58.160.157:8278/720-ONETV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://images.indihometv.com/images/channels/image_ch_kbsworld.png" group-title="HIBURAN", KBS World 
-http://103.58.160.157:8278/720-KBSWORLD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CINEMAWORLD" tvg-logo="https://www.transvision.co.id/img/channel/new/CINEMA%20WORLD%20CHAMPAGNE.png" group-title="HIBURAN", CINEMA WORLD 
-http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.transvision.co.id/img/channel/axn_black.png" group-title="HIBURAN", AXN
-http://103.58.160.157:8278/720-AXN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="THRILL" tvg-logo="https://www.visionplus.id/images/repository/921/627921-SQUARE-l.jpg" group-title="HIBURAN", THRILL 
-http://103.58.160.157:8278/720-THRILL/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CCM" tvg-logo="https://www.visionplus.id/images/repository/881/576881-SQUARE-l.jpg" group-title="HIBURAN", Celestial Movies
-http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FASHIONTV" tvg-logo="https://www.transvision.co.id/img/channel/fashion.png" group-title="HIBURAN", FASHION TV
-#http://103.58.160.157:8278/720-FASHIONTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GAMINGTV" tvg-logo="https://www.transvision.co.id/img/channel/new/GAMING%20TV.png" group-title="HIBURAN", GAMING TV
-http://103.58.160.157:8278/720-GAMINGTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cartoonnetwork.png" group-title="KIDS", Cartoon Network 
-http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-logo="https://www.transvision.co.id/img/channel/new/CARTOONITO.png" group-title="KIDS", CARTOONITO 
-http://103.58.160.157:8278/720-CARTOONITO/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SPORTSTV" tvg-logo="https://www.transvision.co.id/img/channel/new/SPORTS%20TV.jpg" group-title="SPORTS", SPORTS TV
-http://103.58.160.157:8278/720-SPORTSTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SPEEDTV" tvg-logo="https://www.transvision.co.id/img/channel/new/Speed%20TV.jpg" group-title="SPORTS", SPEED TV
-http://103.58.160.157:8278/720-SPEEDTV/playlist.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h20/01.m3u8
 
 
 
