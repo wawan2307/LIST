@@ -95,7 +95,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnbcindonesia.png" group-title="NATIONAL",CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w1117777658_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3ODcwNTY2NTMmd293emF0b2tlbmhhc2g9b2NYbm0ycTYzem02T3lQcVRuYUFXY3pUZTVmZGF3dzRIMGVFMm9qOVF0UT0=.m3u8
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://static.rctiplus.id/media/500/files/fta_rcti/Channel_Logo/iNews.png" group-title="NATIONAL", iNEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
