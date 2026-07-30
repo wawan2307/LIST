@@ -127,8 +127,8 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/chunklist_w1134348818.m3u8
 
-#EXTINF:-1 tvg-id="BNC",BN Channel
-#EXTVLCOPT:http-referrer=https://youtv.live/
+#EXTINF:-1 tvg-id="BNChannel" tvg-logo="https://id.wikipedia.org/wiki/Berkas:BN_Channel.png", BN Channel
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch112.m3u8
 
 #EXTINF:-1 tvg-id="IndonesianaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/IndonesianaTV.png" group-title="NATIONAL",Indonesiana TV
@@ -212,6 +212,10 @@ https://flv.intechmedia.net/live/ch118.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch119.m3u8
 
+#EXTINF:-1 tvg-name="TATV" tvg-logo="https://i.imgur.com/sgLkRTk.jpeg" tvg-id="TATV.id" group-title="NATIONAL",TATV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://inspira.tv/wp-content/uploads/elementor/thumbs/logo-inspira-putih-01-r9f2hk91s2d7hlo0zr9xo5d6xzdyz44dh0ffpnyk1u.png" group-title="NATIONAL",INSPIRA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
@@ -258,8 +262,37 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 ===============HIBURAN=================
 
+#EXTINF:-1 tvg-name=" " tvg-logo=" " tvg-id=" " group-title="HIBURAN",Bioskop Indonesia 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WARNERTV" tvg-logo="https://www.transvision.co.id/img/channel/new/WARNER.jpg" group-title="HIBURAN", WARNER TV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNMovies" tvg-logo="https://www.visionplus.id/images/repository/887/576887-SQUARE-l.jpg" group-title="HIBURAN", TVN Movies 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " tvg-id=" " group-title="HIBURAN",Arirang
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://202.150.161.212:5000/live/channel33/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://iili.io/JmoiJMN.png" group-title="HIBURAN",SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="movie Entertainmen" tvg-logo="https://i.imgur.com/42Dgijh.jpeg" tvg-id="itzreisa.id" group-title="HIBURAN",HBO Netherlands
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/671616.m3u8
+
+#EXTINF:-1 tvg-name="movie Entertainmen" tvg-logo="https://i.imgur.com/Ahmodfb.jpeg" tvg-id="itzreisa.id" group-title="HIBURAN",HBO Netherlands 2 
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/671617.m3u8
+
+#EXTINF:-1 tvg-name="movie Entertainmen" tvg-logo="https://i.imgur.com/rNyOucJ.jpeg" tvg-id="itzreisa.id" group-title="HIBURAN", HBO Netherlands 3
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/671618.m3u8
+
+#EXTINF:-1 tvg-id="COOKINGTV" tvg-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.png" group-title="HIBURAN", COOKING TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://202.150.161.212:5000/live/channel34/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DFC" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" group-title="HIBURAN", DFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -308,6 +341,10 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
 ================KIDS===================
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cartoonnetwork.png" group-title="KIDS", Cartoon Network 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BiznetKids" tvg-logo="https://biznetiptv.com/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="HIBURAN", Biznet Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -451,4 +488,21 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h143/S4/mnf.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h101/S1/mnf.m3u8
 
+================BACKUP=================
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " tvg-id=" " group-title="Transvision",36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://202.150.161.212:5000/live/channel36/playlist.m3u8
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " tvg-id=" " group-title="Transvision",37
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://202.150.161.212:5000/live/channel37/playlist.m3u8
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " tvg-id=" " group-title="Transvision",40
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://202.150.161.212:5000/live/channel40/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PesonaIndonesia" tvg-logo="https://i.postimg.cc/Fs0v5WJR/pesona-indonesia.png" group-title="NATIONAL",Pesona Indonesia
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://h1.intechmedia.net/intech/ch92.m3u8
 
