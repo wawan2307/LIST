@@ -34,6 +34,10 @@ http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://63b2dc7196c38.streamlock.net:1937/JAWAPOSTVJKT/_definst_/myStream/chunklist_w623967849.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="NATIONAL",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="NATIONAL", MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -176,6 +180,10 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 #EXTINF:-1 tvg-id="BRTV" tvg-logo="https://brtv.co.id/wp-content/uploads/2022/12/LOGO-BRTV-ORIGINAL-1024x316.png", BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NATIONAL",BN
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch112.m3u8
+
 #EXTINF:-1 tvg-id="DavikaTV" tvg-logo="https://davikatv.co/wp-content/uploads/2024/09/cropped-cropped-Logo_Davika_TV-1-80x80.png", Davika TV
 #EXTVLCOPT:http-referrer=https://davikatv.co/livestreaming/
 https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
@@ -195,6 +203,14 @@ https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCTV" tvg-logo="https://assets.radarcirebon.tv/main/2024/08/cropped-radarcirebon.tv_icon-192x192.png" group-title="NATIONAL",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NATIONAL",Ktv
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch118.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NATIONAL",Jagantara TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch119.m3u8
 
 #EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://inspira.tv/wp-content/uploads/elementor/thumbs/logo-inspira-putih-01-r9f2hk91s2d7hlo0zr9xo5d6xzdyz44dh0ffpnyk1u.png" group-title="NATIONAL",INSPIRA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -241,6 +257,9 @@ https://e.siar.us/live/tvmu.m3u8
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 ===============HIBURAN=================
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmoiJMN.png" group-title="HIBURAN",SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DFC" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" group-title="HIBURAN", DFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -357,9 +376,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",CT SPORTS (PILDUN 2026)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",CT SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQcvncK3h-LvMI_qsjLiCjdfW4o7rNkYw&s" group-title="SPORTS",Real Madrid TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
 #EXTINF:-1 tvg-id="FIFAPlus",FIFA+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
