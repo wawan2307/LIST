@@ -86,7 +86,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://static.rctiplus.id/media/500/files/fta_rcti/Channel_Logo/iNews.png" group-title="NATIONAL", iNEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
 
 #EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://media-origin.kompas.tv/frontend/mobile/images/160x44web.png" group-title="NATIONAL",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -116,6 +117,10 @@ https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w11177776
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://63b2dc7196c38.streamlock.net:1937/JAWAPOSTVJKT/_definst_/myStream/chunklist_w623967849.m3u8
 
+#EXTINF:-1 tvg-id="ANTARATV" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180-CL-AntaraTV_2025_10_24_15_50_32.jpg" group-title="NATIONAL", ANTARA TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/antara/manifest.mpd
+
 #EXTINF:-1 tvg-id="TVRI" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501756_tvchannels_v1.jpg" group-title="NATIONAL", TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -130,17 +135,17 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/chunklist_w1134348818.m3u8
 
-#EXTINF:-1 tvg-id="DhohoTV" tvg-logo="https://id.wikipedia.org/wiki/Berkas:DhohoTVlogo.png",Dhoho TV
+#EXTINF:-1 tvg-id="DhohoTV" tvg-logo="https://dhohotv.com/wp-content/uploads/2023/11/logo.png", Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KSTV" tvg-logo="https://id.wikipedia.org/wiki/Berkas:Logo_KSTV_Kediri.png" group-title="NATIONAL",Kilisuci TV Kediri
+#EXTINF:-1 tvg-id="KSTV" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png" group-title="NATIONAL",Kilisuci TV Kediri
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MADUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" group-title="NATIONAL",MADU TV
+#EXTINF:-1 tvg-id="MADUTV" tvg-logo="https://madu.tv/wp-content/uploads/2022/01/madu-tv-logo.webp" group-title="NATIONAL", MADU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroBlitarTV" tvg-logo="https://i.imgur.com/rORKbGw.png",Astro Blitar TV
+#EXTINF:-1 tvg-id="AstroBlitarTV" tvg-logo="https://i.imgur.com/rORKbGw.png", Astro Blitar TV
 #EXTVLCOPT:http-referrer=https://abtelevisi.com/
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 
@@ -160,7 +165,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-flashcon-digdayasd-1.dens.tv/h/h201/S1/mnf.m3u8
 
-#EXTINF:-1 tvg-id="BNChannel" tvg-logo="https://id.wikipedia.org/wiki/Berkas:BN_Channel.png",BN Channel
+#EXTINF:-1 tvg-id="BNChannel" tvg-logo="https://id.wikipedia.org/wiki/Berkas:BN_Channel.png", BN Channel
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch112.m3u8
 
@@ -236,6 +241,24 @@ https://flv.intechmedia.net/live/ch119.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch118.m3u8
 
+#EXTINF:-1 tvg-id="SURABAYATV" tvg-logo="https://surabayatv35uhf.com/wp-content/uploads/2024/07/cropped-surabaya-tv-1536x296.png" group-title="NATIONAL", SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://www.visionplus.id/images/repository/936/576936-SQUARE-l.jpg" group-title="NATIONAL", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#EXTINF:-1 tvg-id="MENTARI" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="NATIONAL", MENTARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://175.158.57.130:8888/stream/channelid/641828885
+
+#EXTINF:-1 tvg-id="Jowo" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="NATIONAL", Jowo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayasd-1.dens.tv/h/h77/S4/mnf.m3u8
+
 =============== HIBURAN =================
 
 #EXTINF:-1 tvg-id="MIC" tvg-logo="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png", Music Information Channel
@@ -244,6 +267,10 @@ https://mic.siar.us/mic/live/mic.m3u8
 
 #EXTINF:-1 tvg-id="BRM" tvg-logo="http://www.bahanafmngawi.com/wp-content/uploads/2022/01/B280X96.png" group-title="HIBURAN",BAHANA RADIO MUSIC
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PRAMBORSTV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_prambors.png" group-title="HIBURAN", PRAMBORS TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/pramborstv/manifest.mpd
 
 #EXTINF:-1 tvg-name="Vision" tvg-logo="https://i.imgur.com/fQkk9tm.jpeg" tvg-id="Vision.id" group-title="HIBURAN",Vision Prime
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -288,6 +315,26 @@ https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://images.indihometv.com/images/channels/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg" group-title="HIBURAN",Cinemax
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 tvg-id="HITS" tvg-logo="https://images.indihometv.com/images/channels/image_ch_hits.png" group-title="HIBURAN", HITS
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/hits/manifest.mpd
+
+#EXTINF:-1 tvg-id="HITSMovies " tvg-logo="https://images.indihometv.com/images/channels/image_ch_hitsmovies.png" group-title="HIBURAN", HITS Movies 
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
+
+#EXTINF:-1 tvg-id="KIX" tvg-logo="https://images.indihometv.com/images/channels/image_ch_kix.png" group-title="HIBURAN", KIX
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
+
+#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_rockaction.png" group-title="HIBURAN", ROCK Entertainment
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 #EXTINF:-1 tvg-id="WARNERTV" tvg-logo="https://www.transvision.co.id/img/channel/new/WARNER.jpg" group-title="HIBURAN", WARNER TV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -478,9 +525,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
-#EXTINF:-1 tvg-id="NICKTOON" tvg-logo="https://images.indihometv.com/images/channels/image_ch_nick.png" group-title="KIDS",NICKTOON
-http://41.205.93.154/NICKTOONS/index.m3u8
-
 #EXTINF:-1 tvg-id="BiznetKids" tvg-logo="https://biznetiptv.com/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="KIDS", Biznet Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
@@ -512,12 +556,17 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
-#EXTINF:-1 tvg-name="Vision" tvg-logo="https://i.imgur.com/xtJVIqj.jpeg" tvg-id="Vision.id" group-title="KIDS",Animax
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/36/2025/03/27192107/Boomerang-logo-2.png" group-title="KIDS", BOOMERANG
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/boomerang/manifest.mpd
+
+#EXTINF:-1 tvg-id="MAXKIDS" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg" group-title="KIDS", MAXKIDS
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#EXTINF:-1 tvg-id="MYKIDS" tvg-logo="https://i.ibb.co.com/6NXNR4F/mykidz.png" group-title="KIDS",MYKIDS
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD",Toon Goggles
 https://d1eg24xrsfr6kv.cloudfront.net/tg/tg/tg.m3u8
@@ -525,11 +574,23 @@ https://d1eg24xrsfr6kv.cloudfront.net/tg/tg/tg.m3u8
 #EXTINF:-1 tvg-id="TGJunior.us@SD",Toon Goggles Junior
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 
+#EXTINF:-1 tvg-id="NICKTOON" tvg-logo="https://images.indihometv.com/images/channels/image_ch_nick.png" group-title="KIDS",NICKTOON
+http://41.205.93.154/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/41/2025/10/17121309/DisneyChannel-2025-logo-white.png" group-title="KIDS", Disney 
+http://89.105.221.127/Disney/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="DisneyXD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/DisneyXD_150x150.jpg" group-title="KIDS", Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
+#EXTINF:-1 tvg-id="Animax" tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png" group-title="KIDS", Animax
+https://nl.utako.moe/Animax/index.m3u8
+
 #EXTINF:-1 tvg-id="mjh-abc-kids" tvg-id="" tvg-logo="https://i.ibb.co/2FGJLGg/abckids.png" group-title="KIDS", ABC KIDS
 https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-id="mjh-abc-me" tvg-id="" tvg-logo="https://i.ibb.co/rkFbwRV/abcme.png" group-title="KIDS", ABC ME
+https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://i.ibb.co/qNpjCYr/kidsflix.png" group-title="KIDS", KIDSFLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
@@ -537,14 +598,27 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://i.ibb.co/qrhGpfd/pbskids.png" group-title="KIDS", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ToonGoggles.us@SD",Toon Goggles
+https://d1eg24xrsfr6kv.cloudfront.net/tg/tg/tg.m3u8
+
+#EXTINF:-1 tvg-id="TGJunior.us@SD",Toon Goggles Junior
+https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
+
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.transvision.co.id/img/channel/new/Smurf%20TV.png",SMURF TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 
 #EXTINF:-1 tvg-id="USBC2400019EF" tvg-id="" tvg-logo="https://i.ibb.co/Kh5Mwfd/zoomoo.png" group-title="KIDS", ZOO MOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShO1UgMNbwNch_ciN3w-sWUdEfuzw9mByreg&usqp=CAU",AFARIN TV
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJO4qM5OWcFFuKMiqLRpJ-jOu93juAbDDQqA&usqp=CAU",BALAPAN TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://i.ibb.co/ydz4SLT/toonzkids.png" group-title="KIDS", TOONZKIDS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+
 
 =============== SPORTS =================
 
@@ -613,6 +687,14 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/
 #EXTINF:-1 tvg-id="Motor+" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg" group-title="SPORTS", Motor+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h09/01.m3u8
+
+#EXTINF:-1 tvg-id="MAXSPORT" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="SPORTS", MAXSPORT
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
+
+#EXTINF:-1 tvg-id="FightSports" tvg-logo="https://images.indihometv.com/images/channels/image_ch_fightsport.png" group-title="SPORTS", Fight Sports
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/fightsport/manifest.mpd
 
 #EXTINF:-1 tvg-id="WWE",WWE
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
@@ -737,22 +819,11 @@ https://op-flashcon-digdayasd-1.dens.tv/s/s21/S4/mnf.m3u8
 
 =============== BACKUP =================
 
-#EXTINF:-1 tvg-id="SURABAYATV" tvg-logo="https://surabayatv35uhf.com/wp-content/uploads/2024/07/cropped-surabaya-tv-1536x296.png" group-title="NATIONAL", SURABAYA TV
-https://e.siar.us/live/surabayatv.m3u8
-
-#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://www.visionplus.id/images/repository/936/576936-SQUARE-l.jpg" group-title="NATIONAL", ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png" group-title="NATIONAL", GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-
-#EXTINF:-1 tvg-id="MENTARI" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="NATIONAL", MENTARI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://175.158.57.130:8888/stream/channelid/641828885
-
-#EXTINF:-1 tvg-id="Jowo" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="NATIONAL", Jowo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-flashcon-digdayasd-1.dens.tv/h/h77/S4/mnf.m3u8
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 
