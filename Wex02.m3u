@@ -504,26 +504,24 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
+#EXTINF:-1 tvg-name="Vision" tvg-logo="https://i.imgur.com/xtJVIqj.jpeg" tvg-id="Vision.id" group-title="KIDS",Animax
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd|Referer=https://www.visionplus.id
+
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD",Toon Goggles
 https://d1eg24xrsfr6kv.cloudfront.net/tg/tg/tg.m3u8
 
 #EXTINF:-1 tvg-id="TGJunior.us@SD",Toon Goggles Junior
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 
-#EXTINF:-1 tvg-id="Disney" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/41/2025/10/17121309/DisneyChannel-2025-logo-white.png" group-title="KIDS", Disney 
-http://89.105.221.127/Disney/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="DisneyXD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/DisneyXD_150x150.jpg" group-title="KIDS", Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="Animax" tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png" group-title="KIDS", Animax
-https://nl.utako.moe/Animax/index.m3u8
-
 #EXTINF:-1 tvg-id="mjh-abc-kids" tvg-id="" tvg-logo="https://i.ibb.co/2FGJLGg/abckids.png" group-title="KIDS", ABC KIDS
 https://c.mjh.nz/abc-kids.m3u8
-
-#EXTINF:-1 tvg-id="mjh-abc-me" tvg-id="" tvg-logo="https://i.ibb.co/rkFbwRV/abcme.png" group-title="KIDS", ABC ME
-https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://i.ibb.co/qNpjCYr/kidsflix.png" group-title="KIDS", KIDSFLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
@@ -537,15 +535,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 #EXTINF:-1 tvg-id="USBC2400019EF" tvg-id="" tvg-logo="https://i.ibb.co/Kh5Mwfd/zoomoo.png" group-title="KIDS", ZOO MOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShO1UgMNbwNch_ciN3w-sWUdEfuzw9mByreg&usqp=CAU",AFARIN TV
-https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
-
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJO4qM5OWcFFuKMiqLRpJ-jOu93juAbDDQqA&usqp=CAU",BALAPAN TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://i.ibb.co/ydz4SLT/toonzkids.png" group-title="KIDS", TOONZKIDS
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
-
 
 =============== SPORTS =================
 
