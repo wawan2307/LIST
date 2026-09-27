@@ -2,12 +2,22 @@
 
 =============== NATIONAL =================
 
+#EXTINF:-1 tvg-id="TransTV" tvg-logo="https://cdn.detik.net.id/20detik3/m/images/tv_logo/transtv.png" group-title="NATIONAL", TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#https://video.detik.com/transtv/smil:transtv/playlist.m3u8
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://cdn.detik.net.id/20detik3/m/images/tv_logo/transtv.png" group-title="NATIONAL",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=6&type=fitnah
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
+#EXTINF:-1 tvg-id="Trans7" tvg-logo="https://cdn.detik.net.id/20detik3/m/images/tv_logo/trans7.png" group-title="NATIONAL", TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#https://live.eu-north-1a.cf.dmcdn.net/sec2(3ptp8A7E93ai51_2i-YHbhbg6xM37Uq3_a2Fgu8EM1-0Bo698aZY2LjXwnVKA9nwufEk5mNsiEFqiYE9LixLKjnA_UbsGi1wFd1hBGiE167DqMox8J_l8fAZfLoPhvVJ)/dm/3/x8qckyq/d/live-480.m3u8
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://cdn.detik.net.id/20detik3/m/images/tv_logo/trans7.png" group-title="NATIONAL",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -36,13 +46,19 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/02.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://images.indihometv.com/images/channels/image_ch_indosiar.png" group-title="NATIONAL", INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_indosiar.png" group-title="NATIONAL",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
+#http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
+https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
-#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="NATIONAL", SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="NATIONAL",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
+#http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
+https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://www.visionplus.id/images/repository/936/576936-SQUARE-l.jpg" group-title="NATIONAL", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://calistaiptv.my.id/indopart/play.m3u8?id=782&type=hls
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png" group-title="NATIONAL", GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -90,7 +106,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://media-origin.kompas.tv/frontend/mobile/images/160x44web.png" group-title="NATIONAL",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://livestream.biznetvideo.net/kompas/smil:kompas.smil/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-id="tvOne" tvg-logo="https://www.visionplus.id/images/repository/938/576938-SQUARE-l.jpg" group-title="NATIONAL",TV One 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -106,11 +122,11 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h207/S1/mnf.m3u8
 
 #EXTINF:-1 tvg-id="CNNINDONESIA" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnnindonesia.png" group-title="NATIONAL",CNN INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w1136673405_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3OTAyNTc1OTImd293emF0b2tlbmhhc2g9WEZWTkNLZThheDBZcXNncThHYWZwZEJZdC1pT2xHTENxOGZzZ0dsM19xST0=.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNBCINDONESIA" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnbcindonesia.png" group-title="NATIONAL",CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w1117777658_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3ODcwNTY2NTMmd293emF0b2tlbmhhc2g9b2NYbm0ycTYzem02T3lQcVRuYUFXY3pUZTVmZGF3dzRIMGVFMm9qOVF0UT0=.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JawaPos" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg" group-title="NATIONAL",Jawa Pos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -133,6 +149,10 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 #EXTINF:-1 tvg-id="JTV" tvg-logo="https://thumbor.prod.vidiocdn.com/RFPy_yTRC9PPPbHGeJlLQgt-RaE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png" group-title="NATIONAL",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/chunklist_w1134348818.m3u8
+
+#EXTINF:-1 tvg-id="Jowo" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="NATIONAL", Jowo
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 #EXTINF:-1 tvg-id="DhohoTV" tvg-logo="https://dhohotv.com/wp-content/uploads/2023/11/logo.png", Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
